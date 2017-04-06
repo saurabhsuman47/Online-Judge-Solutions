@@ -15,7 +15,7 @@ int main(){
 	set<int> sx, sy;
 	multiset<int> mx, my;
 	set<int>::iterator itl, itr;
-	multiset<int>::iterator it, ito, it1;
+	multiset<int>::iterator it, ito;
 	sx.insert(0); sx.insert(x);
 	sy.insert(0); sy.insert(y);
 	mx.insert(x); my.insert(y);

@@ -22,7 +22,8 @@ int a[N];
 
 
 int main(){
-	freopen("input.txt", "r", stdin);
+	freopen("input.txt", "r", stdin);	
+	freopen("output.txt", "w", stdout);
 	int t;
 	sc(t);
 	for (int z = 1; z <= t; z++){

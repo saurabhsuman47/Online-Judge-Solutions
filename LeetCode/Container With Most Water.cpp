@@ -1,3 +1,4 @@
+//https://discuss.leetcode.com/topic/503/anyone-who-has-a-o-n-algorithm
 class Solution {
 public:
     int maxArea(vector<int>& height) {
